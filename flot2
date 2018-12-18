@@ -1,0 +1,1 @@
+[{"id":"6c62ce9d.ea121","type":"http request","z":"75d02185.bcbc5","name":"","method":"GET","ret":"txt","url":"http://api.mediatek.com/mcs/v2/devices/DTBCQTTB/datachannels/Temperature/datapoints.csv","tls":"","x":400,"y":300,"wires":[["d74654e1.f88f58"]]}]
